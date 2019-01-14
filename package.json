@@ -1,0 +1,19 @@
+{
+  "name": "blocked",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blocked.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Samuel Witke",
+  "license": "ISC"
+}
